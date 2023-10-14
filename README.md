@@ -39,7 +39,7 @@ Before you start, you'll need the following:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/red-alert-python.git
+   git clone https://github.com/crabmiau/red-alert-python.git
    ```
 2. CD into the folder
    ```
